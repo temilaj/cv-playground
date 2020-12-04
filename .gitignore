@@ -8,3 +8,5 @@
 /httpRequests/
 .idea/
 .DS_STORE
+*.npy
+*.yml
